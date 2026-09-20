@@ -6,6 +6,8 @@ Adaptive assessment: upload a lecture PDF, answer open-ended questions, and Gemi
 misconception in each answer. The next question targets that gap and the difficulty adapts.
 After two wrong answers in a row Hesham gives a short explanation. At the end you get a performance report.
 
+You can try it by this link{https://hesham10.streamlit.app/}
+
 ## Run
 
 Use Python 3.12 or 3.13 (Python 3.15 can't build `pyarrow`, which Streamlit needs).
